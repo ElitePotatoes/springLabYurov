@@ -1,4 +1,4 @@
-package org.example.springlabyurov;
+package tech.reliab.course.toropchida.springlabyurov;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
